@@ -17,8 +17,9 @@
 - **Analyse une VOD de n'importe quelle durée** : un fichier sur ton PC, un lien Twitch ou un lien YouTube (vidéo ou rediff de live).
 - **Repère les moments forts** : tes réactions au micro, les rires, le chat qui s'enflamme (KEKW, Pog, « CLIP »…), l'action à l'écran.
 - **Ignore l'intro et la fin du stream** (écran d'attente, musique, motion design).
-- **Monte des clips 9:16** : facecam + jeu (dans l'ordre que tu veux), recadré ou fond flou. Tu places toi-même la facecam et la zone du jeu.
+- **Monte des clips 9:16** : facecam + jeu (dans l'ordre que tu veux), **2 caméras** pour les duos et les invités, recadré ou fond flou. Tu places toi-même les caméras et la zone du jeu.
 - **Sous-titres automatiques animés**, titre en bandeau, accroche, zooms sur les réactions, coupe des blancs.
+- **En français ou en anglais** : tu choisis la langue à l'installation, et tu peux la changer à tout moment dans les réglages.
 - **Tout se passe sur ton PC** : aucune vidéo n'est envoyée sur Internet, pas d'abonnement.
 
 <p align="center"><img src="https://github.com/user-attachments/assets/084d90bc-f6c9-4969-a4b4-654f6f783239" alt="Une redif 16:9 transformée en clips 9:16" width="100%"></p>
@@ -59,12 +60,12 @@ Va dans **[Releases](../../releases)** (colonne de droite) et télécharge :
 |---|:---:|:---:|
 | Analyse et détection des moments forts | ✅ | ✅ |
 | Studio : mise en page, sous-titres, titre | ✅ | ✅ |
-| Export | 480p avec filigrane | **1080p ou 720p, sans filigrane** |
+| Exports | 3 par semaine, en 480p avec filigrane | **Illimités, en 1080p ou 720p, sans filigrane** |
 | Mises à jour | ✅ | ✅ |
 
 **Pour obtenir ta licence :**
 
-1. Dans Klipr, clique sur **« Version d'essai · Débloquer »** et copie ton **code PC**.
+1. Dans Klipr, clique sur le bouton **« Version d'essai »** en haut à droite et copie ton **code PC**.
 2. Envoie-le en DM sur X : **[@oxxe_kcm](https://x.com/oxxe_kcm)**.
 3. Tu reçois ta clé : colle-la dans Klipr, puis **Activer**.
 
@@ -77,3 +78,13 @@ Dans Klipr : **Réglages › Dépannage › Tester l'installation**. Si un probl
 **Mon antivirus bloque Klipr ?** Certains antivirus se méfient des petits logiciels non signés. Tu peux ajouter une exception pour le dossier de Klipr.
 
 **Ça marche sur Mac ou Linux ?** Non, Klipr est disponible uniquement sur Windows pour l'instant.
+
+---
+
+## 🇬🇧 In English
+
+Klipr turns your Twitch and YouTube replays into vertical clips for TikTok, YouTube Shorts and Reels, automatically. It finds the highlights (your mic reactions, laughs, the chat going wild, on-screen action), skips the stream intro, and builds 9:16 clips with your facecam, a 2-camera layout for duos, animated subtitles and a hook title. Everything runs on your PC.
+
+- **Download:** [Klipr-Setup.exe](https://github.com/exxodevs/Klipr/releases/latest/download/Klipr-Setup.exe) (Windows 10/11, 64-bit). Choose **English** in the installer.
+- **Trial:** 3 exports per week, in 480p with a watermark.
+- **License (€10, lifetime):** unlimited exports in 1080p or 720p without a watermark. In Klipr, click **Trial** at the top right, copy your **PC code** and DM it to [@oxxe_kcm on X](https://x.com/oxxe_kcm).
