@@ -1,5 +1,14 @@
-<h1 align="center">Klipr</h1>
+<p align="center">
+  <a href="https://github.com/exxodevs/Klipr/releases/latest"><img src="https://github.com/user-attachments/assets/1a19291c-be3f-44b6-a021-bc0a2a5a0c32" alt="Klipr : ta redif devient des clips verticaux" width="100%"></a>
+</p>
+
 <p align="center"><b>Tes redifs Twitch et YouTube deviennent des clips verticaux prêts pour TikTok, YouTube Shorts et Reels. Automatiquement.</b></p>
+
+<p align="center">
+  <a href="https://github.com/exxodevs/Klipr/releases/latest/download/Klipr-Setup.exe"><b>⬇️ Télécharger Klipr pour Windows</b></a>
+  &nbsp;·&nbsp; <a href="#version-dessai-et-licence">Essai gratuit, licence 10 €</a>
+  &nbsp;·&nbsp; <a href="https://x.com/oxxe_kcm">Contact</a>
+</p>
 
 ---
 
@@ -11,6 +20,21 @@
 - **Monte des clips 9:16** : facecam + jeu (dans l'ordre que tu veux), recadré ou fond flou. Tu places toi-même la facecam et la zone du jeu.
 - **Sous-titres automatiques animés**, titre en bandeau, accroche, zooms sur les réactions, coupe des blancs.
 - **Tout se passe sur ton PC** : aucune vidéo n'est envoyée sur Internet, pas d'abonnement.
+
+<p align="center"><img src="https://github.com/user-attachments/assets/084d90bc-f6c9-4969-a4b4-654f6f783239" alt="Une redif 16:9 transformée en clips 9:16" width="100%"></p>
+
+## Aperçu
+
+<p align="center"><img src="https://github.com/user-attachments/assets/61d9efe5-a133-4486-8036-9ce9b5ee894b" alt="Le studio de Klipr" width="100%"></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94a71a5a-1fc8-46b0-b2d9-eb0733a400a3" alt="L'analyse en temps réel" width="49%">
+  <img src="https://github.com/user-attachments/assets/211a94b0-3c91-4f40-b928-5f0b7f255610" alt="La fenêtre d'export" width="49%">
+</p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/5ad54bc5-a1dc-4eef-bcb4-ea3c219803cd" alt="L'écran d'accueil" width="100%"></p>
+
+<sub>Captures réalisées avec une redif de démonstration (personnage et jeux dessinés pour l'exemple).</sub>
 
 ## Télécharger
 
