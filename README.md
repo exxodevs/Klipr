@@ -19,7 +19,7 @@ Va dans **[Releases](../../releases)** (colonne de droite) et télécharge :
 - `Klipr-Setup.exe` : l'installateur (recommandé)
 - `Klipr-portable.zip` : sans installation, dézippe puis lance `Klipr.exe`
 
-> 🚧 Première version bientôt disponible.
+> ⬇️ **[Télécharger Klipr-Setup.exe](https://github.com/exxodevs/Klipr/releases/latest/download/Klipr-Setup.exe)** (recommandé) ou la [version portable (.zip)](https://github.com/exxodevs/Klipr/releases/latest/download/Klipr-portable.zip)
 
 **Configuration :** Windows 10 ou 11 (64 bits), 8 Go de RAM conseillés, environ 2 Go d'espace libre. Une carte graphique NVIDIA, AMD ou Intel accélère les exports.
 
